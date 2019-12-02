@@ -34,8 +34,8 @@
         android:layout_weight="10">
 
         <Button
-            android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:id="@+id/playnext"
             android:background="@drawable/playnextbg"
             android:layout_alignParentTop="true"
@@ -45,8 +45,8 @@
             android:layout_alignParentRight="true" />
 
         <Button
-            android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:id="@+id/play"
             android:background="@drawable/buttonbg"
             android:layout_gravity="center"
@@ -55,8 +55,8 @@
             android:layout_marginLeft="5dp" />
 
         <Button
-            android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:id="@+id/playlast"
             android:background="@drawable/playpreviousbg"
             android:layout_alignParentTop="true"
