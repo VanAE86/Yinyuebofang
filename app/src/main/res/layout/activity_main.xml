@@ -24,7 +24,7 @@
             android:layout_height="50dp"
             android:id="@+id/localmusic"
             android:background="@drawable/localmusic"
-            android:layout_gravity="right|top" />
+            android:layout_gravity="left|top" />
 
     </FrameLayout>
 
